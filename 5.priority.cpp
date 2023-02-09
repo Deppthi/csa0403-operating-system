@@ -68,4 +68,4 @@ int main()
     printf("\nAverage Turnaround Time=%d\n",avg_tat);
  
 return 0;
-}
+} 
