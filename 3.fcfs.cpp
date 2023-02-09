@@ -34,7 +34,7 @@
     }
  
     avwt/=i;
-    avtat/=i;
+    avtat/=i; 
     printf("\n\nAverage Waiting Time:%d",avwt);
     printf("\nAverage Turnaround Time:%d",avtat);
  
