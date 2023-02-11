@@ -47,4 +47,4 @@ goto x;
 else 
 exit(0);
 getch();
-}
+} 
